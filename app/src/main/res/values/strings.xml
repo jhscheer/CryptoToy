@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crypto Toy</string>
+    <string name="button1">aes_decrypt</string>
+    <string name="button2">aes_cbc_encrypt</string>
+</resources>
